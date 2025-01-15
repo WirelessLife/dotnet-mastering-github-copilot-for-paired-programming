@@ -1,9 +1,8 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
-// README at: https://github.com/devcontainers/templates/tree/main/src/python
 {
-	"name": "Python 3",
+	"name": ".NET 9",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/python:0-3.11",
+	"image": "mcr.microsoft.com/devcontainers/dotnet:9.0",
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
@@ -14,9 +13,9 @@
 		"vscode": {
 			"settings": {},
 			"extensions": [
+				"github.copilot",
 				"streetsidesoftware.code-spell-checker",
-				"ms-python.python",
-				"ms-python.vscode-pylance"
+				"ms-dotnettools.csdevkit"
 			]
 		}
 	},
