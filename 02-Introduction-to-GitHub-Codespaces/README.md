@@ -16,7 +16,7 @@ Picture a fully configured development setup, ready to use and accessible from a
 - **What you'll build**: A codespace with devcontainer.json files, customizations, and personalizations.
 - **Prerequisites**: You'll need to know the following:
   - Use of Visual Studio Code, [Visual Studio Code Docs](https://code.visualstudio.com/docs).
-  - Understanding of GitHub use or completion of the previous module [Introduction to GitHub](https://github.com/WirelessLife/Mastering-GitHub-Copilot-for-Paired-Programming/blob/main/01-Introduction-to-GitHub/README.md?WT.mc_id=academic-113596-abartolo).
+  - Understanding of GitHub use or completion of the previous module [Introduction to GitHub](https://github.com/jamesmontemagno/dotnet-mastering-github-copilot-for-paired-programming/blob/main/01-Introduction-to-GitHub/README.md).
 - **Timing**: This course can be completed in less than an hour.
 
 By the end of this module, you'll be able to:
@@ -28,7 +28,7 @@ By the end of this module, you'll be able to:
 
 ## Prerequisite reading: 
 
-- [Code with GitHub Codespaces](https://learn.microsoft.com/training/modules/code-with-github-codespaces/?WT.mc_id=academic-113596-abartolo)
+- [Code with GitHub Codespaces](https://learn.microsoft.com/training/modules/code-with-github-codespaces/)
 - What is GitHub Codespaces? (Video playlist below)
 - [![What is Codespaces](https://img.youtube.com/vi/ozuDPmcC1io/0.jpg)](https://www.youtube.com/watch?v=ozuDPmcC1io&list=PLmsFUfdnGr3wTl-NCblzcrEv2lFSX975-)
 
@@ -52,7 +52,7 @@ By the end of this module, you'll be able to:
 1. Right-click **Start course** and open the link in a new tab.
 2. In the new tab, most of the prompts will automatically fill in for you.
    - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions?WT.mc_id=academic-113596-abartolo).
+   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
    - Scroll down and click the **Create repository** button at the bottom of the form.
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 

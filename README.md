@@ -13,17 +13,17 @@ To use GitHub Copilot, you must have an active GitHub Copilot subscription.
 
 **Sign up for free here: [GitHub Copilot](https://gh.io/copilot).** 
 
-To make it easier to revisit this repository in the future, you can also [star (🌟) this repo](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars?WT.mc_id=academic-113596-abartolo) this repo.
+To make it easier to revisit this repository in the future, you can also [star (🌟) this repo](https://docs.github.com/get-started/exploring-projects-on-github/saving-repositories-with-stars) this repo.
 
 Below are links to each lesson—feel free to explore and dive into any topic that interests you the most! 
 
 
 ## 🧠 Want to learn more? 
-After completing this course, check out our [GitHub Copilot Learn Collection](https://learn.microsoft.com/collections/kkqrhmxoqn54?WT.mc_id=academic-113596-abartolo) to continue leveling up your AI Paired Programming knowledge! 
+After completing this course, check out our [GitHub Copilot Learn Collection](https://learn.microsoft.com/collections/kkqrhmxoqn54) to continue leveling up your AI Paired Programming knowledge! 
 
 ##  🚀  Are you a startup or got an idea you want to launch? 
 
-Sign up for [Microsoft for Startups Founders Hub](https://foundershub.startups.microsoft.com/signup?WT.mc_id=academic-113596-abartolo) to receive **free OpenAI credits** and up to **$150k towards Azure credits to access OpenAI models through Azure OpenAI Services**. 
+Sign up for [Microsoft for Startups Founders Hub](https://foundershub.startups.microsoft.com/signup) to receive **free OpenAI credits** and up to **$150k towards Azure credits to access OpenAI models through Azure OpenAI Services**. 
 
 ##  🙏 Want to help?
 
@@ -50,13 +50,28 @@ Here are ways you can contribute to this course:
 
 ## 🎒  Other Courses 
 
-Our team produces other courses! Check out:
+Check out more .NET courses on Microsoft Learn Training on:
 
-- [Generative AI for Beginners](https://aka.ms/genai-beginners)
-- [AI for Beginners](https://aka.ms/ai-beginners?WT.mc_id=academic-113596-abartolo)
-- [Data Science for Beginners](https://aka.ms/datascience-beginners?WT.mc_id=academic-113596-abartolo)
-- [ML for Beginners](https://aka.ms/ml-beginners?WT.mc_id=academic-113596-abartolo)
-- [Cybersecurity for Beginners](https://github.com/microsoft/Security-101??WT.mc_id=academic-96948-sayoung) 
-- [Web Dev for Beginners](https://aka.ms/webdev-beginners?WT.mc_id=academic-113596-abartolo)
-- [IoT for Beginners](https://aka.ms/iot-beginners?WT.mc_id=academic-113596-abartolo)
-- [XR Development for Beginners](https://github.com/microsoft/xr-development-for-beginners?WT.mc_id=academic-113596-abartolo)
+* [Learn C#](https://learn.microsoft.com/training/paths/get-started-c-sharp-part-1/)
+* [Introduction to .NET](https://learn.microsoft.com/training/paths/build-dotnet-applications-csharp/)
+* [Build mobile & desktop apps with .NET MAUI](https://learn.microsoft.com/training/paths/build-apps-with-dotnet-maui/)
+* [Understand ASP.NET Core fundamentals](https://learn.microsoft.com/training/paths/aspnet-core-fundamentals/)
+* [Build web apps with Blazor](https://learn.microsoft.com/en-us/training/paths/build-web-apps-with-blazor/)
+* [Develop Generative AI apps with Azure OpenAI](https://learn.microsoft.com/training/paths/develop-ai-agents-azure-open-ai-semantic-kernel-sdk/)
+* [Build distributed apps with .NET Aspire](https://learn.microsoft.com/training/paths/dotnet-aspire/)
+
+### Beginner video series:
+
+* [.NET development for Beginners](https://aka.ms/dotnet/beginnervideos/youtube/dotnet)
+* [C# for Beginners](https://aka.ms/dotnet/beginnervideos/youtube/csharp)
+* [Generative AI with .NET for Beginners](https://aka.ms/dotnet/beginnervideos/youtube/ai)
+* [C# Development with VS Code for Beginners](https://aka.ms/dotnet/beginnervideos/youtube/vscode)
+* [Visual Studio development with .NET for Beginners](https://aka.ms/dotnet/beginnervideos/youtube/visualstudio)
+* [Package Management with NuGet for Beginners](https://aka.ms/dotnet/beginnervideos/youtube/nuget)
+* [Back-end web development for Beginners](https://aka.ms/dotnet/beginnervideos/youtube/webapi)
+* [Front-end web developmetn for Beginners](https://aka.ms/dotnet/beginnervideos/youtube/blazor)
+* [.NET MAUI for Beginners](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUBAdL2NwBpDs32zwGqb9DY)
+* [Blazor Hybrid for Beginners](https://aka.ms/dotnet/beginnervideos/youtube/blazorhybrid)
+* [Containers with .NET & Docker for Beginners](https://aka.ms/dotnet/beginnervideos/youtube/containers)
+* [Entity Framework Core for Beginners](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oX7uTkjYwvCJDG2qhcSzwZ6)
+* [.NET on Azure for Beginners](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVSBX3Lde8owu6dSgZLIXfu)
