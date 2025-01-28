@@ -32,49 +32,19 @@ By the end of this module, you'll acquire the skills to be able to:
 
 ## 💪🏽 Exercise
 
-**Right click the "Start Course" button to open your Codespace in a new tab**
- 
-
-<!-- For start course, run in JavaScript:
-'https://github.com/new?' + new URLSearchParams({
-  template_owner: 'jamesmontemagno',
-  template_name: 'copilot-codespaces-vscode-dotnet',
-  owner: '@me',
-  name: 'skills-copilot-codespaces-vscode-dotnet',
-  description: 'My clone repository',
-  visibility: 'public',
-}).toString()
--->
-
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=jamesmontemagno&template_name=copilot-codespaces-vscode-dotnet&owner=%40me&name=skills-copilot-codespaces-vscode-dotnet&description=My+clone+repository&visibility=public)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/jamesmontemagno/dotnet-mastering-github-copilot-for-paired-programming)
 
 You have already learned a bit about GitHub Codespaces and GitHub Copilot and how they work. In this challenge exercise, your goal is to develop a minigame in C# using GitHub Copilot. 
 
 #### Testing your GitHub Codespace
 
-> **Note:** You may need to install the C# Dev Kit Extension in Visual Studio Code if it isn't currently installed.
-
-1. Create a new .NET project by using the `.NET: New Project...` command and selecting `Console App`. 
-1. Select a folder and name the project **MiniGame**.
+1. Open the **Solution Explorer** and you will find a project named **MiniGame**
 1. Open `Program.cs`
 
-1. Type the following comment:
-
-   ```csharp
-   // write 'hello world' to the console
-   ```
-      
-1. GitHub Copilot should complete the code for you and provide the following result:
-
-   ```csharp
-   // write 'hello world' to the console
-   Console.WriteLine("hello world");
-   ```
-
-1. Run the application with the *dotnet run* command in the terminal and check if the result is similar to the following console message:
+1. Run the application under the **Run and Debug** option or on the top right of the Program.cs file with the Play button. Check if the result is similar to the following console message:
 
    ```bash
-   hello world
+   Hello, World!
    ```
    
 ### Creating the game logic

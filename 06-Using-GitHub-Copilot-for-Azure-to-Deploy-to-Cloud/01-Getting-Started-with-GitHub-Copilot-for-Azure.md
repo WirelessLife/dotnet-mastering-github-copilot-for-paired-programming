@@ -39,7 +39,7 @@ To complete the steps in this lab, make sure that you have:
 
 **Right click the following Codespaces button to open your Codespace in a new tab**
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/jamesmontemagno/dotnet-mastering-github-copilot-for-paired-programming)
 
 1. Upon opening  VS Code, in the right hans side, click **"Sign in with a GitHub.com account"**.
 
@@ -59,8 +59,9 @@ To complete the steps in this lab, make sure that you have:
     1. **GitHub Copilot**
     1. **GitHub Copilot Chat**
     1. **GitHub Copilot for Azure**
-    1. **.NET Install**
-    1. **Python**
+    1. **.NET Install Tool**
+    1. **C# Dev Kit**
+    1. **C#**
    
 1. If one is missing install it from the marketplace.
 
