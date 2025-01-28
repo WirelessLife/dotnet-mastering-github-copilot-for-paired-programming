@@ -32,7 +32,7 @@ Completion of [Module 1 - Getting Started to use GitHub Copilot for Azure](https
 6. In the chat text box, type the following prompt. Then select **Send** (paper airplane icon) or select Enter on your keyboard.
 
    ```prompt
-   @azure Could you help me create and deploy a simple ASP.NET Core web app that demonstrates A/B testing using Azure App Configuration?
+   @azure can you help me deploy a C# api with mongodb and a web front end?
    ```
 
     > **IMPORTANT**
@@ -77,12 +77,12 @@ The exact wording of the response is different each time GitHub Copilot for Azur
 1. Ask questions about the services that the template uses with a prompt like:
 
    ```prompt
-   @azure What is the purpose of a virtual network?
+   @azure What are the capabilities of Azure App Service?
    ```
 
    You might see a response that resembles the following screenshot.
 
-    ![Screenshot that shows the GitHub Copilot chat pane](https://github.com/jamesmontemagno/dotnet-mastering-github-copilot-for-paired-programming/blob/main/images/mod2-CopilotChat-8.png "Screenshot that shows a response from GitHub Copilot for Azure with an explanation of what a virtual network is.")
+    ![Screenshot that shows the GitHub Copilot chat pane](https://github.com/jamesmontemagno/dotnet-mastering-github-copilot-for-paired-programming/blob/main/images/mod2-CopilotChat-8.png "Screenshot that shows a response from GitHub Copilot for Azure with an explanation of what capabilities are of Azure App Service.")
 
 1. When you're satisfied, run the `azd init` command in the terminal. Answer its prompts. If you're unsure what to answer for a prompt, ask GitHub Copilot for Azure for help.
 
@@ -114,11 +114,14 @@ The exact wording of the response is different each time GitHub Copilot for Azur
 
 5. Continue to answer prompts from `azd up`. Ask GitHub Copilot for Azure questions as needed.
 
-    1. When asked the location select **Canada Central**.
+    1. When asked the location select **Canada East (canadaeast)**.
 
-    Depending on the `azd` template that you're deploying and the location that you selected, the template might take 20 to 40 minutes (or more) to deploy. But we can Move on to [Module 3](https://github.com/jamesmontemagno/dotnet-mastering-github-copilot-for-paired-programming/blob/main/09-Using-GitHub-Copilot-for-Azure-to-Deploy-to-Cloud/03-Get-Answers-to-your-Questions-about-Azure-Services-and-Resources.md) while it completes
+    Depending on the `azd` template that you're deploying and the location that you selected, the template might take 10 minutes (or more) to deploy. But we can Move on to [Module 3](https://github.com/jamesmontemagno/dotnet-mastering-github-copilot-for-paired-programming/blob/main/06-Using-GitHub-Copilot-for-Azure-to-Deploy-to-Cloud/03-Get-Answers-to-your-Questions-about-Azure-Services-and-Resources.md) while it completes
 
 1. If `azd up` experiences an error, ask GitHub Copilot for Azure about the error and how you can resolve it.
 
     > **TIP**
     > For an easy way to attach the last terminal command results, use the paperclip icon at the bottom left of the chat pane. GitHub Copilot for Azure doesn't know the terminal command results unless they are copy/pasted or attached via the paperclip.
+
+
+1. When you are done run `azd down` to remove all resources.
