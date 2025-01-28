@@ -59,6 +59,8 @@ Start Debugging the selected project. The Weather API project, our BackEnd proje
 
 ![Copy app url from the ports panel](./007ProjectRunningOpenInNewTab.png)
 
+> Note: When you run the application you will see "This page isn't working" error message. That is because we need to navigate to the endpoint, which is detailed below.
+
 The BackEnd application published an endpoint named `weatherforecast` that generates random forecast data. To test the current running application, you can add `/weatherforecast` to the published url. The final url should be similar to this one
 
 ```bash
@@ -93,7 +95,8 @@ Now let's use a slash command, in GitHub Copilot to understand a piece of code. 
 
 ![Use slash command to explain a piece of code](./011SlashCommandExplain.gif)
 
-In the Chat Panel, GitHub Copilot will create a detailed explanation of the selected code. A summarized version will be like this one:
+
+Based on your version of GitHub Copilot you will see either an inline response or an update in the Chat Panel. GitHub Copilot will create a detailed explanation of the selected code. A summarized version will be like this one:
 
 ```
 The selected C# code is part of an ASP.NET Core application using the minimal API feature. It defines a GET endpoint at "/weatherforecast" that generates an array of WeatherForecast objects. Each object is created with a date, a random temperature, and a random summary. The endpoint is named "GetWeatherForecast" and has OpenAPI support for standardized API structure documentation.
@@ -109,7 +112,7 @@ Let's use the `/tests` command to generate tests to the code. Select lines 39-42
 
 ![Use slash command to generate tests for the selected piece of code](./012SlashCmdTests.gif)
 
-At this point, GitHub Copilot will suggest a new class. You need to first press [Create] to create the new file. 
+At this point, GitHub Copilot will suggest a new class. You need to first press [Accept] to create the new file. 
 
 A new class `ProgramTests.cs` was created and added to the project. This tests are using XUnit, however, you can ask to generate tests using another Unit Test library with a command like this one `/tests use MSTests for unit testing`.
 
