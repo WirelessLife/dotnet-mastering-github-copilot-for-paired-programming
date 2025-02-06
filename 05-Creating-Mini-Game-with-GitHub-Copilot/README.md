@@ -21,9 +21,7 @@ By the end of this module, you'll acquire the skills to be able to:
 
 ## Prerequisite reading:
 - [Introduction to prompt engineering with GitHub Copilot](https://learn.microsoft.com/training/modules/introduction-prompt-engineering-with-github-copilot/)
-- [Challenge project - Build a minigame with GitHub Copilot and C#]()
-
-  
+- [Challenge project - Build a minigame with GitHub Copilot and C#](https://learn.microsoft.com/training/modules/challenge-project-create-mini-game-with-copilot-dotnet/)
 
 ## Requirements
 
